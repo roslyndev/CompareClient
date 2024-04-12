@@ -4,7 +4,7 @@ This tool compare infomation in the Clients table created against Duende Identit
 This tool compares how two client's attributes or information differs to find differences, which can help you determine if an error is due to configuration differences or not.
 
 ### Guide
-1. After running, click the "Manage DB" button to register the database information. (Only MSSQL is supported.)
+1. After running, click the "DB관리" button to register the database information. (Only MSSQL is supported.)
 2. After registering all the desired databases, click the "Close" button below to close the DbManager window.
 3. Select the desired Database by clicking the first ComboBox in the first line.
 4. Once the database is selected, the second ComboBox will be populated by looking up the Clients table in that database.
